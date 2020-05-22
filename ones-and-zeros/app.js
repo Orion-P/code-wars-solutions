@@ -35,3 +35,4 @@ const binaryArrayToNumber = arr => {
   return output;
   
 };
+
